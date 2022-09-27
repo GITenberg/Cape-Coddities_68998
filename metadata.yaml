@@ -7,12 +7,17 @@ contributor:
     deathdate: 1961
     gutenberg_agent_id: '36428'
     url: http://www.gutenberg.org/2009/agents/36428
+covers:
+- cover_type: archival
+  image_path: 68998-h/images/cover.jpg
 creator:
   author:
     agent_name: Scaife, Roger Livingston
     gutenberg_agent_id: '55049'
     url: http://www.gutenberg.org/2009/agents/55049
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68998#Cape-Coddities
 gutenberg_issued: '2022-09-16'
 identifiers:
   gutenberg: '68998'
